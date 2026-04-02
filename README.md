@@ -39,7 +39,7 @@ The goal is to enable data-driven decision-making by identifying demand patterns
 
 <h3> Power BI Dashboard</h3>
 <p align="center">
-  <img src="Images/powerbi_dashboard.png" width="90%">
+  <img src="Superstore_dashboard_powerbi.png" width="90%">
 </p>
 
 <ul>
