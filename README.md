@@ -28,7 +28,7 @@ The goal is to enable data-driven decision-making by identifying demand patterns
 
 <h3> Tableau Dashboard</h3>
 <p align="center">
-  <img src="Images/tableau_dashboard.png" width="90%">
+  <img src="superstore_dashboard_tableau.png" width="90%">
 </p>
 
 <ul>
