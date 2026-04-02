@@ -1,4 +1,4 @@
-<h1 align="center"> Superstore Demand Forecasting & Inventory Insights</h1>
+<h1 align="center"> Demand Forecasting & Inventory Optimization Dashboard</h1>
 
 <p align="center">
   <b>Tableau | Power BI | Excel | Demand Forecasting | Business Analytics</b>
