@@ -6,6 +6,14 @@
 
 <hr>
 
+<p>
+This project, titled <b>"Superstore Sales Forecasting & Inventory Insights"</b>, 
+analyzes historical sales data to identify demand patterns, forecast future demand, 
+and recommend optimal inventory levels for improved decision-making.
+</p>
+
+<hr>
+
 <h2> Project Overview</h2>
 <p>
 This project focuses on analyzing historical sales data to forecast future demand and optimize inventory levels. 
